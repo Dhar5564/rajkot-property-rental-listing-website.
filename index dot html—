@@ -1,2 +1,4 @@
 Rajkot Rent Finder"
-coming soon new property 
+Rajkot Rent Finder body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #f7f7f7; } header { background: #2d89ef; color: white; padding: 20px; text-align: center; } .container { padding: 16px; } .search-bar { display: flex; gap: 8px; margin-bottom: 16px; } .search-bar input, .search-bar select { padding: 10px; font-size: 16px; flex: .search-bar button { padding: 10px; font-size: 16px; background: #2d89ef; color: white; border: none; } .listings { display: grid; grid-template-columns: 1fr; gap: 16px; } @media (min-width: 600px) { .listings { grid-template-columns: repeat(2, 1fr); } } .card { background: white; border-radius: 8px; padding: 16px; box-shadow: 0 2px 6px rgba(0,0,0,0.1); } .photo { font-size: 40px; } .info h3 { margin: 8px 0; .contact { display: inline-block; margin-top: 8px; background: #25d366; color: white; padding: 10px; text-decoration: none; border-radius: 4px; } footer { text-align: center; padding: 16px; font-size: 14px; color: #666; } 
+Rajkot Rent Finder
+Coming soon: add your property
